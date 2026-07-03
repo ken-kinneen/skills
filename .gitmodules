@@ -1,0 +1,3 @@
+[submodule "upstream/awwwards-motion"]
+	path = upstream/awwwards-motion
+	url = https://github.com/adamperlis/awwwards-motion.git
